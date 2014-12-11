@@ -1,7 +1,7 @@
 title: Answer Of Codecademy Python
 date: 2014-10-25 23:50:26
 categories: Python
-tags: [codecademy，answer]
+tags: [codecademy, answer]
 
 ---
 

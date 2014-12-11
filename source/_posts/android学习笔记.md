@@ -1,7 +1,7 @@
 title: android学习笔记
-data: 2014-12-3
+date: 2014-11-8
 categories: Android
-tags: [android]
+tags: [android, 笔记]
 
 ---
 最近课程需要，大致了解了下android，虽然刚开始被环境搞定有点崩溃，但是几天学完后发现还蛮有意思的。写了点笔记，非常粗略，自用。

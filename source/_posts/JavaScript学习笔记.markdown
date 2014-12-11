@@ -1,7 +1,7 @@
-title: JavaScript学习笔记
-date: 2014-12-11
+title: JavaScript学习笔记(基础篇)
+date: 2014-12-05
 categories: 前端开发
-tags: [JavaScript JS]
+tags: [JavaScript, JS, 笔记]
 
 ---
 让网页呈现各种动态效果

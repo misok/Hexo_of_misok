@@ -1,7 +1,7 @@
 title: mac下安装安卓开发环境
 date: 2014/11/05
 categories: Android
-tags: [mac，android,环境]
+tags: [mac, android, 环境]
 
 
 ---
