@@ -1,4 +1,4 @@
-title: JavaScript学习笔记(基础篇)
+title: JavaScript基础篇
 date: 2014-12-05
 categories: 前端开发
 tags: [JavaScript, JS, 笔记]
