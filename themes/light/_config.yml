@@ -1,6 +1,7 @@
 menu:
   Home: /
   Archives: /archives
+  Resume: /resume
 
 widgets:
 - search

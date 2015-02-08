@@ -19,6 +19,7 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
+Resume_dir: resume
 permalink_defaults:
 
 # Directory
