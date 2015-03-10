@@ -11,12 +11,16 @@ tags: [CSS]
 3.：before和：after伪类
 另外还有position属性的解读和float属性。这是关于布局的另一个故事了，请期待下一篇。
 ```
-###display:none和visibility:hidden的区别
+<!--more-->
+---
+
+##display:none和visibility:hidden的区别
 - 首先，两者都是隐藏对应的元素
 - display：none 隐藏对应元素后文档布局不再为其分配空间，它周围的元素会合拢
 - visibility：hidden隐藏对应元素但在文档布局中依然保留其空间
 
-###CSS选择符、属性的继承性、优先级
+---
+##CSS选择符、属性的继承性、优先级
 - 选择符
   - id选择器
   - 类选择器
@@ -73,8 +77,9 @@ css优先级用来决定同一个元素样式设置冲突的时候采用哪个�
 - 继承的样式低于后来新设置的样式
 - 同一组属性设置中标有！important规则的优先级最高
   - ！important > id > class > tag
-  
-###：before和：after伪类
+---  
+
+##：before和：after伪类
 ：before和：after伪类的作用就是在指定的元素内容（而不是元素本身）之前或者之后插入一个包含content属性指定内容的行内元素
 如果没有content属性，伪类元素就没有作用。插入的内容默认是一个行内元素，且在HTML源代码中无法看到，也无法通过DOM操作。
 
