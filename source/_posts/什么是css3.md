@@ -184,7 +184,7 @@ text-shadow: X-Offset Y-Offset blur color;
 
 ---
 ##背景相关
-- background-origin ：设置图品的原始起始位置（背景必须是no-repeat,否则此属性无效）
+- background-origin ：设置图片的原始起始位置（背景必须是no-repeat,否则此属性无效）
 background-origin ： border-box | padding-box | content-box;
  ![Alt text](/img/531003de0001166903660166.jpg)
 - background-clip: 从何处裁剪图片
