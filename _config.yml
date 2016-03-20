@@ -20,7 +20,11 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 Resume_dir: resume
+Ife_dir: ife
 permalink_defaults:
+
+#skip render
+#skip_render: resume/*
 
 # Directory
 source_dir: source
